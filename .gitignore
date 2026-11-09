@@ -1,0 +1,19 @@
+# Python bytecode and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Training outputs and checkpoints
+*.pth
+*.pt
+*.ckpt
+training_history.png
+loss_data.mat
+predictions.mat
+
+# IDE and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
